@@ -10,3 +10,9 @@ C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_23 - Jogo da velha\JogoDaVe
 C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_23 - Jogo da velha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csprojAssemblyReference.cache
 C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_23 - Jogo da velha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
 C:\Users\keven.barauna\Documents\_Projetos\_Pessoal\_23 - Jogo da velha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+C:\Users\keven.barauna\Downloads\OrfanizarGit\I.A\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Users\keven.barauna\Downloads\OrfanizarGit\I.A\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\keven.barauna\Downloads\OrfanizarGit\I.A\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\keven.barauna\Downloads\OrfanizarGit\I.A\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csprojAssemblyReference.cache
+C:\Users\keven.barauna\Downloads\OrfanizarGit\I.A\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Users\keven.barauna\Downloads\OrfanizarGit\I.A\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb

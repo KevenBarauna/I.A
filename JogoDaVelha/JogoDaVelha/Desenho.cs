@@ -48,15 +48,16 @@ namespace JogoDaVelha
             Console.SetCursorPosition(x + 40, y+5); Console.WriteLine("    #+#      #+#  #+#     #+# ");
             Console.SetCursorPosition(x + 40, y+6); Console.WriteLine("###########  ###  ###     ### ");
 
-            Console.SetCursorPosition(x + 40, y + 9);  Console.WriteLine(" [1] - CRIAR NOVO USUÁRIO ");
-            Console.SetCursorPosition(x + 40, y + 10); Console.WriteLine(" [2] - EXIBIR PERFIL  ");
-            Console.SetCursorPosition(x + 40, y + 11); Console.WriteLine(" [3] - ENTRAR ");
-            Console.SetCursorPosition(x + 40, y + 12); Console.WriteLine(" [4] - SOBRE ");
-            Console.SetCursorPosition(x + 40, y + 13); Console.WriteLine(" [6] - SAIR ");
-            Console.SetCursorPosition(x + 40, y + 14); Console.WriteLine("\n");
-            Console.SetCursorPosition(x + 40, y + 15); Console.WriteLine("[   ]");
+            Console.SetCursorPosition(x + 40, y + 9);  Console.WriteLine(" [1] - PERGUNTA NÍVEL 1 ");
+            Console.SetCursorPosition(x + 40, y + 10); Console.WriteLine(" [2] - ADIVINHAÇÃO");
+            Console.SetCursorPosition(x + 40, y + 11); Console.WriteLine(" [3] - PERGUNTA NÍVEL 2");
+            Console.SetCursorPosition(x + 40, y + 12); Console.WriteLine(" [4] - JOGO DA VELHA NÍVEL 1");
+            Console.SetCursorPosition(x + 40, y + 13); Console.WriteLine(" [5] - JOGO DA VELHA NÍVEL ULTRA");
+            Console.SetCursorPosition(x + 40, y + 14); Console.WriteLine(" [6] - SAIR");
+            Console.SetCursorPosition(x + 40, y + 15); Console.WriteLine("\n");
+            Console.SetCursorPosition(x + 40, y + 16); Console.WriteLine("[   ]");
 
-            Console.SetCursorPosition(x + 42, y + 15); result=Console.ReadLine();
+            Console.SetCursorPosition(x + 42, y + 16); result=Console.ReadLine();
 
             return result;
         }
