@@ -3,7 +3,7 @@
 
 ##### Sobre o projeto
 
-Criando uma interface mais amigável, fazemdp um jogo de perguntas e resposta e um jogo da velha com dois níveis.
+Criando uma interface mais amigável, fazendo um jogo de perguntas e resposta e um jogo da velha com dois níveis.
 
 ##### Motivo
 
@@ -13,8 +13,8 @@ No primeiro semestre da faculdade tive que apresentar um projeto totalmente no c
 ##### Bibliotecas e tecnologias utilizadas:
 - C#
 
-##### Inciar o projeto:
-- Execulte o arquivo `..\I.A\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe`
+##### Iniciar o projeto:
+- Execute o arquivo `..\I.A\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe`
 - Leia atentamente as instruções de cada fase.
 - No jogo da velha ative o Caps Lock do teclado para se movimentar e jogar.
 - Para se movimentar use as teclas: [w] , [a] , [s] , [d] | Para jogar, mova para a posição desejada e aperte [x]
